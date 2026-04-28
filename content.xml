@@ -1,0 +1,1171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>zen</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202604281928015ZI7EL</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260428192801U4CGHO</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Concreción Curricular de la SdA</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>¡Arriba el telón! Nuestro barrio a escena</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Nazaret Gutiérrez Martínez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>zen</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777397275541</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-moiwg321-f8yksk4za</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¡Arriba el telón! Nuestro barrio a escena</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¡Arriba el telón! Nuestro barrio a escena</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¡Arriba el telón! Nuestro barrio a escena</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moiwg321-f8yksk4za</odePageId>
+      <odeBlockId>block-1777393663947-2s9ss38xy</odeBlockId>
+      <blockName>Descripción de la Situación de Aprendizaje</blockName>
+      <iconName>perform</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moiwg321-f8yksk4za</odePageId>
+          <odeBlockId>block-1777393663947-2s9ss38xy</odeBlockId>
+          <odeIdeviceId>idevice-1777393663946-l91db64ro</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">El teatro nació como un espejo de la sociedad y una forma de comunicación masiva. En esta Situación de Aprendizaje, el alumnado de 2º de la ESO descubrirá la magia del género dramático no solo como espectadores o lectores, sino como creadores. Investigarán los orígenes, elementos y subgéneros teatrales para, finalmente, escribir una breve pieza teatral (microteatro) basada en una situación cotidiana de su entorno o barrio. Esta obra cobrará vida a través de una dramatización sonora, convirtiendo las aulas en un auténtico estudio de radioteatro.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777393663946-l91db64ro","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">El teatro nació como un espejo de la sociedad y una forma de comunicación masiva. En esta Situación de Aprendizaje, el alumnado de 2º de la ESO descubrirá la magia del género dramático no solo como espectadores o lectores, sino como creadores. Investigarán los orígenes, elementos y subgéneros teatrales para, finalmente, escribir una breve pieza teatral (microteatro) basada en una situación cotidiana de su entorno o barrio. Esta obra cobrará vida a través de una dramatización sonora, convirtiendo las aulas en un auténtico estudio de radioteatro.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moiwg321-f8yksk4za</odePageId>
+      <odeBlockId>block-1777393851481-vvuftzgee</odeBlockId>
+      <blockName>Datos Técnicos y de Planificación</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moiwg321-f8yksk4za</odePageId>
+          <odeBlockId>block-1777393851481-vvuftzgee</odeBlockId>
+          <odeIdeviceId>idevice-1777393851480-eg54ve0bq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><strong>Etapa educativa y nivel:</strong> Educación Secundaria Obligatoria (ESO) - 2º Curso.</p>
+<p style="text-align: justify;"><strong>Áreas, materias y/o módulos implicados:</strong></p>
+<ul>
+<li style="text-align: justify;"><strong>Materia principal: </strong>Lengua Castellana y Literatura.</li>
+<li style="text-align: justify;"><strong>Materias transversales:</strong> Educación Plástica, Visual y Audiovisual (diseño de la infografía y estética); Música (creación de efectos sonoros y selección musical para el producto final).</li>
+</ul>
+<p style="text-align: justify;"><strong>Agrupamientos y organización espacial (Principios DUA):</strong> Para garantizar las múltiples formas de implicación, representación y acción/expresión, la SdA alternará diferentes agrupamientos y espacios:</p>
+<ul style="text-align: justify;">
+<li><strong>Trabajo individual:</strong> Para la investigación previa, la visualización de recursos (aula invertida) y la autorreflexión.</li>
+<li><strong>Trabajo en parejas:</strong> Para la coevaluación de los borradores de los guiones teatrales.</li>
+<li><strong>Grupos cooperativos (3-4 alumnos/as, heterogéneos):</strong> Para el diseño de la infografía, la redacción final del guion y la grabación del producto audiovisual. Se asignarán roles (coordinador/a, guionista, técnico/a de sonido, locutor/a-actor/actriz).</li>
+<li><strong>Gran grupo (Asamblea):</strong> Puestas en común, debates iniciales y la gran audición final (estreno).</li>
+</ul>
+<p style="text-align: justify;"><strong>Organización espacial:</strong> Aula de referencia (agrupada en islas), Aula de Informática/Mediateca y Biblioteca del centro.</p>
+<p style="text-align: justify;"><strong>Temporalización:</strong> Se planifica para 12 sesiones (de 55 minutos), repartidas a lo largo de 3 semanas, durante el segundo trimestre.</p>
+<ul style="text-align: justify;">
+<li>Fase de motivación e investigación (Sesiones 1-3)</li>
+<li>Fase de desarrollo y creación de guiones (Sesiones 4-6)</li>
+<li>Fase de producción digital: Infografía y grabación (Sesiones 7-10)</li>
+<li>Fase de difusión y evaluación (Sesiones 11-12)</li>
+</ul>
+<p style="text-align: justify;"><strong>Productos a desarrollar por el alumnado:</strong></p>
+<ol>
+<li style="text-align: justify;"><strong>Infografía interactiva:</strong> Un mapa visual sobre los subgéneros teatrales (comedia, tragedia, drama) y los elementos del texto teatral (acotaciones, diálogos, actos). Deberá contener elementos interactivos (ventanas emergentes con ejemplos en texto, enlaces a vídeos explicativos o audios).</li>
+<li style="text-align: justify;"><strong>Podcast de Radioteatro:</strong> Tras escribir su propio guion de microteatro (un acto, máximo 5 minutos), el alumnado lo dramatizará grabando un podcast. Deberán cuidar la dicción, la entonación, los silencios y añadir efectos de sonido (foley) o música libre de derechos.<br /></li>
+</ol>
+<p style="text-align: justify;"><strong>Herramientas tecnológicas y recursos:</strong></p>
+<ul>
+<li style="text-align: justify;"><strong>Docentes:</strong> Google Classroom/Teams (entorno virtual), eXeLearning (para maquetar esta SdA y entregarla al alumnado), Mentimeter (para activación de conocimientos previos), y CoRubrics (para la evaluación).</li>
+<li style="text-align: justify;"><strong>Alumnado:</strong> Canva o Genially (para la infografía interactiva), Google Docs (para la escritura colaborativa del guion), Audacity o Spotify for Podcasters / Soundtrap (para la grabación y edición del podcast).</li>
+<li style="text-align: justify;"><strong>Recursos complementarios:</strong>
+<ul>
+<li style="text-align: justify;"><em><strong>Teatroteca </strong></em>(Centro de Documentación de las Artes Escénicas y de la Música) para ver fragmentos de obras.</li>
+<li style="text-align: justify;"><strong>Canales de YouTube:</strong> "La Cuna de Halicarnaso" (contexto literario) y banco de sonidos "Freesound" para los efectos del podcast.</li>
+<li style="text-align: justify;"><strong>Biblioteca Virtual Miguel de Cervantes</strong>.</li>
+</ul>
+</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777393851480-eg54ve0bq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><strong>Etapa educativa y nivel:</strong> Educación Secundaria Obligatoria (ESO) - 2º Curso.</p>\n<p style=\"text-align: justify;\"><strong>Áreas, materias y/o módulos implicados:</strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong>Materia principal: </strong>Lengua Castellana y Literatura.</li>\n<li style=\"text-align: justify;\"><strong>Materias transversales:</strong> Educación Plástica, Visual y Audiovisual (diseño de la infografía y estética); Música (creación de efectos sonoros y selección musical para el producto final).</li>\n</ul>\n<p style=\"text-align: justify;\"><strong>Agrupamientos y organización espacial (Principios DUA):</strong> Para garantizar las múltiples formas de implicación, representación y acción/expresión, la SdA alternará diferentes agrupamientos y espacios:</p>\n<ul style=\"text-align: justify;\">\n<li><strong>Trabajo individual:</strong> Para la investigación previa, la visualización de recursos (aula invertida) y la autorreflexión.</li>\n<li><strong>Trabajo en parejas:</strong> Para la coevaluación de los borradores de los guiones teatrales.</li>\n<li><strong>Grupos cooperativos (3-4 alumnos/as, heterogéneos):</strong> Para el diseño de la infografía, la redacción final del guion y la grabación del producto audiovisual. Se asignarán roles (coordinador/a, guionista, técnico/a de sonido, locutor/a-actor/actriz).</li>\n<li><strong>Gran grupo (Asamblea):</strong> Puestas en común, debates iniciales y la gran audición final (estreno).</li>\n</ul>\n<p style=\"text-align: justify;\"><strong>Organización espacial:</strong> Aula de referencia (agrupada en islas), Aula de Informática/Mediateca y Biblioteca del centro.</p>\n<p style=\"text-align: justify;\"><strong>Temporalización:</strong> Se planifica para 12 sesiones (de 55 minutos), repartidas a lo largo de 3 semanas, durante el segundo trimestre.</p>\n<ul style=\"text-align: justify;\">\n<li>Fase de motivación e investigación (Sesiones 1-3)</li>\n<li>Fase de desarrollo y creación de guiones (Sesiones 4-6)</li>\n<li>Fase de producción digital: Infografía y grabación (Sesiones 7-10)</li>\n<li>Fase de difusión y evaluación (Sesiones 11-12)</li>\n</ul>\n<p style=\"text-align: justify;\"><strong>Productos a desarrollar por el alumnado:</strong></p>\n<ol>\n<li style=\"text-align: justify;\"><strong>Infografía interactiva:</strong> Un mapa visual sobre los subgéneros teatrales (comedia, tragedia, drama) y los elementos del texto teatral (acotaciones, diálogos, actos). Deberá contener elementos interactivos (ventanas emergentes con ejemplos en texto, enlaces a vídeos explicativos o audios).</li>\n<li style=\"text-align: justify;\"><strong>Podcast de Radioteatro:</strong> Tras escribir su propio guion de microteatro (un acto, máximo 5 minutos), el alumnado lo dramatizará grabando un podcast. Deberán cuidar la dicción, la entonación, los silencios y añadir efectos de sonido (foley) o música libre de derechos.<br /></li>\n</ol>\n<p style=\"text-align: justify;\"><strong>Herramientas tecnológicas y recursos:</strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong>Docentes:</strong> Google Classroom/Teams (entorno virtual), eXeLearning (para maquetar esta SdA y entregarla al alumnado), Mentimeter (para activación de conocimientos previos), y CoRubrics (para la evaluación).</li>\n<li style=\"text-align: justify;\"><strong>Alumnado:</strong> Canva o Genially (para la infografía interactiva), Google Docs (para la escritura colaborativa del guion), Audacity o Spotify for Podcasters / Soundtrap (para la grabación y edición del podcast).</li>\n<li style=\"text-align: justify;\"><strong>Recursos complementarios:</strong>\n<ul>\n<li style=\"text-align: justify;\"><em><strong>Teatroteca </strong></em>(Centro de Documentación de las Artes Escénicas y de la Música) para ver fragmentos de obras.</li>\n<li style=\"text-align: justify;\"><strong>Canales de YouTube:</strong> \"La Cuna de Halicarnaso\" (contexto literario) y banco de sonidos \"Freesound\" para los efectos del podcast.</li>\n<li style=\"text-align: justify;\"><strong>Biblioteca Virtual Miguel de Cervantes</strong>.</li>\n</ul>\n</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moiwg324-5u773u1g5</odePageId>
+  <odeParentPageId>page-moiwg321-f8yksk4za</odeParentPageId>
+  <pageName>1. Intención educativa</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moiwg324-5u773u1g5</odePageId>
+      <odeBlockId>block-1777394457318-vr9w7jhvt</odeBlockId>
+      <blockName>Justificación de su desarrollo y el impacto esperado</blockName>
+      <iconName>diary_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moiwg324-5u773u1g5</odePageId>
+          <odeBlockId>block-1777394457318-vr9w7jhvt</odeBlockId>
+          <odeIdeviceId>idevice-1777394457317-fimtt13ls</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">El teatro es fundamental para desarrollar la competencia comunicativa oral y la empatía. Escribir e interpretar (con la voz) permite al alumnado adolescente explorar sus emociones, mejorar su prosodia, dicción y perder el miedo escénico. El impacto esperado es doble: por un lado, una mejora sustancial en la producción de textos escritos (diálogos y acotaciones) y orales; por otro, el fomento del trabajo en equipo y la resolución de conflictos a través de la creación artística compartida.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777394457317-fimtt13ls","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">El teatro es fundamental para desarrollar la competencia comunicativa oral y la empatía. Escribir e interpretar (con la voz) permite al alumnado adolescente explorar sus emociones, mejorar su prosodia, dicción y perder el miedo escénico. El impacto esperado es doble: por un lado, una mejora sustancial en la producción de textos escritos (diálogos y acotaciones) y orales; por otro, el fomento del trabajo en equipo y la resolución de conflictos a través de la creación artística compartida.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moiwg324-5u773u1g5</odePageId>
+      <odeBlockId>block-1777394558866-eidnzehk4</odeBlockId>
+      <blockName>Relación con los ODS y Retos del siglo XXI</blockName>
+      <iconName>piece</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moiwg324-5u773u1g5</odePageId>
+          <odeBlockId>block-1777394558866-eidnzehk4</odeBlockId>
+          <odeIdeviceId>idevice-1777394558865-a2txlnsfu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><strong>ODS 4 (Educación de Calidad):</strong> Asegurando un aprendizaje práctico y significativo.</p>
+<p style="text-align: justify;"><strong>ODS 5 (Igualdad de género) y ODS 10 (Reducción de las desigualdades):</strong> Fomentados a través de las temáticas que el alumnado deberá elegir para sus guiones (situaciones del barrio, prevención del acoso, igualdad, etc.).</p>
+<p style="text-align: justify;"><strong>Retos del s. XXI:</strong> Comunicación efectiva, pensamiento crítico y alfabetización digital (creación de infografías y edición de audio).</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777394558865-a2txlnsfu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><strong>ODS 4 (Educación de Calidad):</strong> Asegurando un aprendizaje práctico y significativo.</p>\n<p style=\"text-align: justify;\"><strong>ODS 5 (Igualdad de género) y ODS 10 (Reducción de las desigualdades):</strong> Fomentados a través de las temáticas que el alumnado deberá elegir para sus guiones (situaciones del barrio, prevención del acoso, igualdad, etc.).</p>\n<p style=\"text-align: justify;\"><strong>Retos del s. XXI:</strong> Comunicación efectiva, pensamiento crítico y alfabetización digital (creación de infografías y edición de audio).</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moiwg325-e7mu79k0b</odePageId>
+  <odeParentPageId>page-moiwg321-f8yksk4za</odeParentPageId>
+  <pageName>2. Elementos curriculares (Lengua Castellana y Literatura)</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares (Lengua Castellana y Literatura)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares (Lengua Castellana y Literatura)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moiwg325-e7mu79k0b</odePageId>
+      <odeBlockId>block-1777394692513-e8iwl36k8</odeBlockId>
+      <blockName>Competencias clave (Descriptores operativos)</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moiwg325-e7mu79k0b</odePageId>
+          <odeBlockId>block-1777394692513-e8iwl36k8</odeBlockId>
+          <odeIdeviceId>idevice-1777394692513-k6juiaysn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><strong>Competencia en comunicación lingüística </strong>(CCL1, CCL2, CCL3, CCL5).</p>
+<p style="text-align: justify;"><strong>Competencia digital</strong> (CD1, CD2, CD3).</p>
+<p style="text-align: justify;"><strong>Competencia personal, social y de aprender a aprender</strong> (CPSAA3, CPSAA5).</p>
+<p style="text-align: justify;"><strong>Competencia ciudadana </strong>(CC3).</p>
+<p style="text-align: justify;"><strong>Competencia en conciencia y expresión culturales</strong> (CCEC3, CCEC4).</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777394692513-k6juiaysn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><strong>Competencia en comunicación lingüística </strong>(CCL1, CCL2, CCL3, CCL5).</p>\n<p style=\"text-align: justify;\"><strong>Competencia digital</strong> (CD1, CD2, CD3).</p>\n<p style=\"text-align: justify;\"><strong>Competencia personal, social y de aprender a aprender</strong> (CPSAA3, CPSAA5).</p>\n<p style=\"text-align: justify;\"><strong>Competencia ciudadana </strong>(CC3).</p>\n<p style=\"text-align: justify;\"><strong>Competencia en conciencia y expresión culturales</strong> (CCEC3, CCEC4).</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moiwg325-e7mu79k0b</odePageId>
+      <odeBlockId>block-1777394805456-mzhcky8f0</odeBlockId>
+      <blockName>Competencias específicas</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moiwg325-e7mu79k0b</odePageId>
+          <odeBlockId>block-1777394805456-mzhcky8f0</odeBlockId>
+          <odeIdeviceId>idevice-1777394805455-j96nb25qw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><strong>CE3:</strong> Producir textos orales y multimodales, con fluidez, coherencia, cohesión y el registro adecuado, atendiendo a las convenciones propias de los diferentes géneros discursivos, y participar en interacciones orales con actitud cooperativa y respetuosa, tanto para construir conocimiento y establecer vínculos personales como para intervenir de manera activa e informada en diferentes contextos sociales.</p>
+<p style="text-align: justify;"><strong>CE5:</strong> Producir textos escritos y multimodales coherentes, cohesionados, adecuados y correctos, atendiendo a las convenciones propias de los diferentes géneros discursivos, para construir conocimiento y para dar respuesta de manera informada, eficaz y creativa a demandas comunicativas concretas.<br /><strong></strong></p>
+<p style="text-align: justify;"><strong>CE8:</strong> Leer, interpretar y valorar obras o fragmentos literarios del patrimonio nacional y universal, utilizando un metalenguaje específico y movilizando la experiencia biográfica y los conocimientos literarios y culturales que permiten establecer vínculos entre textos diversos y con otras manifestaciones artísticas, para conformar un mapa cultural, para ensanchar las posibilidades de disfrute del ocio y para crear textos de intención literaria.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777394805455-j96nb25qw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><strong>CE3:</strong> Producir textos orales y multimodales, con fluidez, coherencia, cohesión y el registro adecuado, atendiendo a las convenciones propias de los diferentes géneros discursivos, y participar en interacciones orales con actitud cooperativa y respetuosa, tanto para construir conocimiento y establecer vínculos personales como para intervenir de manera activa e informada en diferentes contextos sociales.</p>\n<p style=\"text-align: justify;\"><strong>CE5:</strong> Producir textos escritos y multimodales coherentes, cohesionados, adecuados y correctos, atendiendo a las convenciones propias de los diferentes géneros discursivos, para construir conocimiento y para dar respuesta de manera informada, eficaz y creativa a demandas comunicativas concretas.<br /><strong></strong></p>\n<p style=\"text-align: justify;\"><strong>CE8:</strong> Leer, interpretar y valorar obras o fragmentos literarios del patrimonio nacional y universal, utilizando un metalenguaje específico y movilizando la experiencia biográfica y los conocimientos literarios y culturales que permiten establecer vínculos entre textos diversos y con otras manifestaciones artísticas, para conformar un mapa cultural, para ensanchar las posibilidades de disfrute del ocio y para crear textos de intención literaria.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moiwg325-e7mu79k0b</odePageId>
+      <odeBlockId>block-1777394896656-x5a7sluwo</odeBlockId>
+      <blockName>Saberes Básicos</blockName>
+      <iconName>reflection</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moiwg325-e7mu79k0b</odePageId>
+          <odeBlockId>block-1777394896656-x5a7sluwo</odeBlockId>
+          <odeIdeviceId>idevice-1777394896655-v6lhnojck</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><strong>Bloque B. Comunicación</strong></p>
+<ul style="text-align: justify;">
+<li>Estrategias de producción oral: planificación, elementos prosódicos y comunicación no verbal (aplicados a la grabación de voz en el <strong>podcast).</strong></li>
+<li>El proceso de escritura: planificación, redacción de borradores, revisión y edición (aplicado a la creación del <strong>guion teatral</strong>).</li>
+<li>Alfabetización informacional: uso de plataformas digitales para la creación de contenido y derechos de autor (búsqueda de música libre de derechos e imágenes para la <strong>infografía</strong>).</li>
+</ul>
+<p style="text-align: justify;"><strong>Bloque C. Educación literaria</strong></p>
+<ul>
+<li style="text-align: justify;">Lectura expresiva, dramatización y recitado de los textos literarios.</li>
+<li style="text-align: justify;">Apropiación de las convenciones del lenguaje literario y de los géneros literarios (los subgéneros dramáticos: tragedia, comedia, drama; y los elementos del texto teatral: acotaciones, monólogos, diálogos).</li>
+<li style="text-align: justify;">Creación de textos de intención literaria a partir de la apropiación de modelos leídos y analizados.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777394896655-v6lhnojck","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><strong>Bloque B. Comunicación</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Estrategias de producción oral: planificación, elementos prosódicos y comunicación no verbal (aplicados a la grabación de voz en el <strong>podcast).</strong></li>\n<li>El proceso de escritura: planificación, redacción de borradores, revisión y edición (aplicado a la creación del <strong>guion teatral</strong>).</li>\n<li>Alfabetización informacional: uso de plataformas digitales para la creación de contenido y derechos de autor (búsqueda de música libre de derechos e imágenes para la <strong>infografía</strong>).</li>\n</ul>\n<p style=\"text-align: justify;\"><strong>Bloque C. Educación literaria</strong></p>\n<ul>\n<li style=\"text-align: justify;\">Lectura expresiva, dramatización y recitado de los textos literarios.</li>\n<li style=\"text-align: justify;\">Apropiación de las convenciones del lenguaje literario y de los géneros literarios (los subgéneros dramáticos: tragedia, comedia, drama; y los elementos del texto teatral: acotaciones, monólogos, diálogos).</li>\n<li style=\"text-align: justify;\">Creación de textos de intención literaria a partir de la apropiación de modelos leídos y analizados.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moiwg325-e7mu79k0b</odePageId>
+      <odeBlockId>block-1777394972630-3c487hsli</odeBlockId>
+      <blockName>Criterios de evaluación</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moiwg325-e7mu79k0b</odePageId>
+          <odeBlockId>block-1777394972630-3c487hsli</odeBlockId>
+          <odeIdeviceId>idevice-1777394972629-84rwxjnwk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><strong>3.1. </strong>Realizar exposiciones y argumentaciones orales formales y multimodales sencillas (el podcast de radioteatro), ajustadas a las convenciones propias de los diferentes géneros discursivos, con fluidez, rigor, coherencia y cohesión, y con el registro y el tono adecuados.</p>
+<p style="text-align: justify;"><strong>5.1.</strong> Planificar la redacción de textos escritos y multimodales sencillos (el guion teatral y la infografía interactiva), atendiendo a la situación comunicativa, al destinatario, al propósito y al canal; redactar borradores y revisarlos con ayuda del diálogo entre iguales y la orientación de instrumentos de consulta, y presentar un texto final coherente, cohesionado y con el registro adecuado.</p>
+<p style="text-align: justify;"><strong>8.2.</strong> Desarrollar la interpretación de obras leídas a través de la lectura expresiva o de su dramatización (la interpretación vocal en el podcast).</p>
+<p style="text-align: justify;"><strong>8.3. </strong>Crear textos de intención literaria (el guion de microteatro) a partir de la apropiación de los modelos o convenciones leídas y de la aplicación de estrategias de escritura creativa, de manera individual o cooperativa, empleando recursos y técnicas de composición dramática y las aportaciones de las TIC.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777394972629-84rwxjnwk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><strong>3.1. </strong>Realizar exposiciones y argumentaciones orales formales y multimodales sencillas (el podcast de radioteatro), ajustadas a las convenciones propias de los diferentes géneros discursivos, con fluidez, rigor, coherencia y cohesión, y con el registro y el tono adecuados.</p>\n<p style=\"text-align: justify;\"><strong>5.1.</strong> Planificar la redacción de textos escritos y multimodales sencillos (el guion teatral y la infografía interactiva), atendiendo a la situación comunicativa, al destinatario, al propósito y al canal; redactar borradores y revisarlos con ayuda del diálogo entre iguales y la orientación de instrumentos de consulta, y presentar un texto final coherente, cohesionado y con el registro adecuado.</p>\n<p style=\"text-align: justify;\"><strong>8.2.</strong> Desarrollar la interpretación de obras leídas a través de la lectura expresiva o de su dramatización (la interpretación vocal en el podcast).</p>\n<p style=\"text-align: justify;\"><strong>8.3. </strong>Crear textos de intención literaria (el guion de microteatro) a partir de la apropiación de los modelos o convenciones leídas y de la aplicación de estrategias de escritura creativa, de manera individual o cooperativa, empleando recursos y técnicas de composición dramática y las aportaciones de las TIC.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moiwg326-rnalcuhhl</odePageId>
+  <odeParentPageId>page-moiwg321-f8yksk4za</odeParentPageId>
+  <pageName>3. Metodologías activas</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moiwg326-rnalcuhhl</odePageId>
+      <odeBlockId>block-1777395060588-ukwik3wrs</odeBlockId>
+      <blockName>Metodologías</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moiwg326-rnalcuhhl</odePageId>
+          <odeBlockId>block-1777395060588-ukwik3wrs</odeBlockId>
+          <odeIdeviceId>idevice-1777395060587-cruacery8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Se implementarán metodologías centradas en el estudiante:</p>
+<ul>
+<li style="text-align: justify;"><strong>Aprendizaje Basado en Proyectos (ABP):</strong> Eje vertebrador de la SdA. El alumnado no estudia el teatro para hacer un examen, sino que investiga el teatro con el objetivo de crear un producto final con valor social y cultural (el podcast).</li>
+<li style="text-align: justify;"><strong>Aprendizaje Cooperativo: </strong>Utilizado en la fase de creación. Se aplicarán técnicas como el "Folio Giratorio" para generar ideas para el guion, y se establecerá una interdependencia positiva mediante los roles en la grabación del podcast.</li>
+<li style="text-align: justify;"><strong>Flipped Classroom (Aula Invertida):</strong> Para optimizar el tiempo de aula, la asimilación teórica (conceptos de tragedia, comedia, etc.) se realizará en casa mediante vídeos interactivos (Edpuzzle), dejando el espacio del aula para la creación, el debate y la resolución de dudas.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777395060587-cruacery8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Se implementarán metodologías centradas en el estudiante:</p>\n<ul>\n<li style=\"text-align: justify;\"><strong>Aprendizaje Basado en Proyectos (ABP):</strong> Eje vertebrador de la SdA. El alumnado no estudia el teatro para hacer un examen, sino que investiga el teatro con el objetivo de crear un producto final con valor social y cultural (el podcast).</li>\n<li style=\"text-align: justify;\"><strong>Aprendizaje Cooperativo: </strong>Utilizado en la fase de creación. Se aplicarán técnicas como el \"Folio Giratorio\" para generar ideas para el guion, y se establecerá una interdependencia positiva mediante los roles en la grabación del podcast.</li>\n<li style=\"text-align: justify;\"><strong>Flipped Classroom (Aula Invertida):</strong> Para optimizar el tiempo de aula, la asimilación teórica (conceptos de tragedia, comedia, etc.) se realizará en casa mediante vídeos interactivos (Edpuzzle), dejando el espacio del aula para la creación, el debate y la resolución de dudas.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moiwg326-y0tf8n05u</odePageId>
+  <odeParentPageId>page-moiwg321-f8yksk4za</odeParentPageId>
+  <pageName>4. Vinculación con los proyectos y programas del centro</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moiwg326-y0tf8n05u</odePageId>
+      <odeBlockId>block-1777395154013-wmq9omnvy</odeBlockId>
+      <blockName>Planes y Programas del centro</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moiwg326-y0tf8n05u</odePageId>
+          <odeBlockId>block-1777395154013-wmq9omnvy</odeBlockId>
+          <odeIdeviceId>idevice-1777395154012-wvpl3yfn7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><strong>PLEI (Plan de Lectura, Escritura e Investigación): </strong>Esta SdA encaja directamente al fomentar la lectura de textos dramáticos, la escritura creativa (guiones) y la investigación literaria.</p>
+<p style="text-align: justify;"><strong>Plan de Acción Tutorial (PAT):</strong> Al pedir que las obras reflejen "su barrio" o entorno, se trabajan las dinámicas de convivencia, resolución pacífica de conflictos y empatía.</p>
+<p style="text-align: justify;"><strong>Plan de Atención a la Diversidad (PAD) / DUA:</strong> La posibilidad de expresarse a través del diseño gráfico (infografía) o de la interpretación vocal (podcast) sin tener que actuar físicamente frente al público (reduciendo la ansiedad social), permite el éxito de alumnado con distintos perfiles, incluyendo TEA o TDAH.</p>
+<p style="text-align: justify;"><strong>Proyecto TIC / Digital del Centro: </strong>Contribuye a la mejora de la Competencia Digital del alumnado al usar herramientas de edición y diseño en la nube.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777395154012-wvpl3yfn7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><strong>PLEI (Plan de Lectura, Escritura e Investigación): </strong>Esta SdA encaja directamente al fomentar la lectura de textos dramáticos, la escritura creativa (guiones) y la investigación literaria.</p>\n<p style=\"text-align: justify;\"><strong>Plan de Acción Tutorial (PAT):</strong> Al pedir que las obras reflejen \"su barrio\" o entorno, se trabajan las dinámicas de convivencia, resolución pacífica de conflictos y empatía.</p>\n<p style=\"text-align: justify;\"><strong>Plan de Atención a la Diversidad (PAD) / DUA:</strong> La posibilidad de expresarse a través del diseño gráfico (infografía) o de la interpretación vocal (podcast) sin tener que actuar físicamente frente al público (reduciendo la ansiedad social), permite el éxito de alumnado con distintos perfiles, incluyendo TEA o TDAH.</p>\n<p style=\"text-align: justify;\"><strong>Proyecto TIC / Digital del Centro: </strong>Contribuye a la mejora de la Competencia Digital del alumnado al usar herramientas de edición y diseño en la nube.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moiwg327-8awnqlorn</odePageId>
+  <odeParentPageId>page-moiwg321-f8yksk4za</odeParentPageId>
+  <pageName>5. Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moiwg327-8awnqlorn</odePageId>
+      <odeBlockId>block-1777395244360-p1rjwd2x4</odeBlockId>
+      <blockName>Actividades complementarias</blockName>
+      <iconName>history</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moiwg327-8awnqlorn</odePageId>
+          <odeBlockId>block-1777395244360-p1rjwd2x4</odeBlockId>
+          <odeIdeviceId>idevice-1777395244360-po3itcnk5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Visita guiada al teatro Jovellanos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777395244360-po3itcnk5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Visita guiada al teatro Jovellanos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moiwg327-8awnqlorn</odePageId>
+      <odeBlockId>block-1777395305901-gw808wssp</odeBlockId>
+      <blockName>Actividades extraescolares</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moiwg327-8awnqlorn</odePageId>
+          <odeBlockId>block-1777395305901-gw808wssp</odeBlockId>
+          <odeIdeviceId>idevice-1777395305900-sut8kh633</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Taller de "Ficción Sonora y Radioteatro" impartido por un/a profesional de la radio local</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777395305900-sut8kh633","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Taller de \"Ficción Sonora y Radioteatro\" impartido por un/a profesional de la radio local</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moiwg327-dd3a0tvch</odePageId>
+  <odeParentPageId>page-moiwg321-f8yksk4za</odeParentPageId>
+  <pageName>6. Atribución y descarga</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moiwg327-dd3a0tvch</odePageId>
+      <odeBlockId>block-1777396363864-4cuxkk7wh</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName>share</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moiwg327-dd3a0tvch</odePageId>
+          <odeBlockId>block-1777396363864-4cuxkk7wh</odeBlockId>
+          <odeIdeviceId>idevice-1777396363863-ai99fzv1r</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Concreción Curricular de la SdA</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Nazaret Gutiérrez Martínez</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
